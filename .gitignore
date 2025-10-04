@@ -1,0 +1,31 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs
+logs/
+*.log
+
+# Checkpoints and outputs
+*.ckpt
+*.idx
+*.pkl
+*.jsonl
+
+# Environment files
+.env
+*.env
+*.bak
+
+# Jupyter/Colab
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Project Files
+experiments.py
+*.db
